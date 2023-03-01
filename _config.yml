@@ -4,11 +4,11 @@
 
 # Name of your site (displayed in the header)
 name: Luli Schmader
-title: My Awesome Site
+title: Portfolio
 description: Welcome to my awesome site, where you can find all sorts of great content!
 
 # Name of the author
-author: Amit Merchant
+author: Luli Schmader
 
 # Short bio or description (displayed in the header)
 description: Welcome to my site
@@ -24,9 +24,9 @@ avatar: /images/ls.png
 footer-links:
   dribbble:
   email: les231@miami.edu
-  facebook:Luli Schmader
+  facebook: Luli Schmader
   flickr:
-  github: amitmerchant1990/reverie
+  github: lulischmader
   instagram:@harmonious_beings
   linkedin: 
   pinterest:
